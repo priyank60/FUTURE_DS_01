@@ -63,16 +63,16 @@ This project demonstrates:
 ## 🖼️ Dashboard Preview  
 
 ### 1. Overview Page  
-![Overview Dashboard](images/Overview.png)  
+![Overview Dashboard](Images/Overview.png)  
 
-### 2. Sales Analysis  
-![Sales Dashboard](images/sales.png)  
+### 2. Sales Page  
+![Sales Dashboard](Images/sales.png)  
 
-### 3. Regional Insights  
-![Product Dashboard](images/product.png)  
+### 3. Product Page 
+![Product Dashboard](Images/product.png)  
 
-### 4. Category & Sub-category Analysis  
-![Customer Dashboard](images/customer.png)   
+### 4. Customer Page
+![Customer Dashboard](Images/customer.png)   
 
 ---
 
