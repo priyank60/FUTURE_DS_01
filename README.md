@@ -1,4 +1,12 @@
-# 📊 Superstore Sales Dashboard  
+# 📊 FUTURE_DS_01
+
+- Business Sales Dashboard — Superstore Sales Data
+- Intern: Priyank Shrivastava | CIN: FIT/SEP25/DS7522
+- Internship: Future Interns — Data Science & Analytics (Task 1)
+
+---
+
+# Project Overview
 
 This project is a **Power BI Dashboard** built to analyze and visualize the **Superstore Sales dataset**.  
 It provides key insights into sales, profit, quantity, customer behavior, and regional performance across different categories and segments.  
@@ -99,15 +107,6 @@ The dashboard is structured into multiple pages for easy exploration:
 1. Download the repository.  
 2. Open the `Superstore_Sales_Dashboard.pbix` file in **Power BI Desktop**.  
 3. Explore interactive dashboards to analyze sales trends, profits, and customer behavior.  
-
----
-
-## 🌱 Future Improvements  
-
-- Add **predictive analytics** (forecasting sales & profit trends).  
-- Implement **customer segmentation analysis** for deeper insights.  
-- Create **advanced DAX KPIs** (e.g., YoY Growth %, Profit Margin %, CLV).  
-- Automate dataset refresh with a database connection.  
 
 ---
 
